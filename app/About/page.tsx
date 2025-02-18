@@ -18,7 +18,7 @@ const About = () => {
           <div className="w-full sm:w-1/2 text-center sm:text-left">
             <h2 className="text-3xl font-semibold mb-4">Our Mission</h2>
             <p className="text-lg text-gray-300">
-              Bookmark Manager is designed to simplify your online experience. Whether you're managing personal bookmarks or organizing links for your business, this platform helps you save and categorize everything in one place.
+              Bookmark Manager is designed to simplify your online experience. Whether you are managing personal bookmarks or organizing links for your business, this platform helps you save and categorize everything in one place.
               <br />
               <br />
               We aim to provide an effortless way to store and organize your digital resources. With seamless integration with Clerk for authentication and a user-centric interface, managing your bookmarks has never been this easy.
@@ -46,7 +46,7 @@ const About = () => {
           <div className="bg-white text-gray-800 p-6 rounded-lg shadow-lg">
             <h3 className="text-2xl font-semibold mb-4">Easy Categorization</h3>
             <p>
-              Categorize your bookmarks into folders or tags, making it easier to find what you're looking for quickly.
+              Categorize your bookmarks into folders or tags, making it easier to find what you are looking for quickly.
             </p>
           </div>
 
